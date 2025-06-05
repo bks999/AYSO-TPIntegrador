@@ -23,8 +23,8 @@ Contenido del Repositorio
         - Trabajo Integrador AYSO - Sol Yoon - Guido Aguero.docx
         - Trabajo Integrador AYSO - Sol Yoon - Guido Aguero.pdf: es el informe del TPI a entregar.
     - Video explicativo/:
-        - Link video explicativo Youtube.txt: archivo txt que contiene el link del video explicativo en Youtube.
-        - [video explicativo.mp4]
+        - Link video explicativo Youtube.txt: archivo txt que contiene el link del video explicativo en Youtube.(https://youtu.be/_UNiePKJ4ZY)
+        - Trabajo practico integrador Ayso - Guido Aguero - Sol Yoon.mp4
 - Repositorio GitHub.txt: contiene el link al repositorio GitHub con el TPI en caso que no se pueda acceder. (https://github.com/bks999/AYSO-TPIntegrador)
 - Carpeta digital Drive.txt: contiene link de Drive del TPI en caso que no se pueda acceder. (https://drive.google.com/drive/folders/10GQEFZQfDdkKJzUZMawdLm-1y2C99zrh?usp=sharing)
     
